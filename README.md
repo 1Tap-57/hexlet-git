@@ -1,2 +1,2 @@
 Hello, Hexlet! How are you?
-test --amend
+Интерактивынй ГИТ файл Ридми
